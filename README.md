@@ -1,4 +1,4 @@
-Relased date: 2019
+Released date: 2019
 
 Simple calculator created with PyQt5 framework.
 
